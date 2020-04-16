@@ -2,8 +2,8 @@
 Just a list of projects and focus plan i will go through whenever i have the time
 
 ### Frameworks 
-Flutter UI (Mobile) Practice
-CodeIgniter 4
+1. Flutter UI (Mobile) Practice
+2. CodeIgniter 4
 
 ### Languages 
 1. PHP
