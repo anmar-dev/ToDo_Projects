@@ -16,7 +16,7 @@ Just a list of projects and focus plan i will go through whenever i have the tim
 8. WebAssembly (It sounds like its the feature)
 
 ### Applications
-1. Adobe XD
+1. Adobe XD - Projects [1-Low Fidelity Design](https://github.com/anmar-dev/flutter_NewsApp_Design) 
 
 ### Admin (Raspberry PI 4 Box does wonders)
 1. Linux Command Line
