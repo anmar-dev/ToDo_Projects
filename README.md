@@ -6,14 +6,14 @@ Just a list of projects and focus plan i will go through whenever i have the tim
 2. CodeIgniter 4
 
 ### Languages 
-1. PHP
-2. Dart
-3. Python
-4. SQL
-5. JavaScript
-6. HTML
-7. CSS
-8. WebAssembly 
+1. PHP (Web Apps Backend)
+2. Dart (Mobile Development)
+3. Python (Data Mining and Data Analysis)
+4. SQL (Advanced)
+5. JavaScript (Web Client Side)
+6. HTML (HTML APIs)
+7. CSS (new features)
+8. WebAssembly (It sounds like its the feature)
 
 ### Applications
 1. Adobe XD
